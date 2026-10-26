@@ -37,7 +37,7 @@ Accuracy: 0.676 | Macro-F1: 0.654
 ```python
 from transformers import pipeline
 
-clf = pipeline("text-classification", model="twnarx/az-sentiment-xlmr")
+clf = pipeline("text-classification", model="twnarx/azerbaijani_sentiment_analysis")
 print(clf("Bu tətbiq çox yaxşıdır!"))
 ```
 
