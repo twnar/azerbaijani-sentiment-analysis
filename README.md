@@ -2,7 +2,7 @@
 
 Fine-tuned XLM-RoBERTa for 3-class sentiment analysis (negative / neutral / positive) on Azerbaijani Play Store reviews.
 
-[![Hugging Face Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/twnar/az-sentiment-xlmr)
+[![Hugging Face Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/twnar/azerbaijani_sentiment_analysis)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/twnar/azerbaijani-sentiment-analysis/blob/main/az_sentiment.ipynb)
 
 ![Demo](demo.png)
