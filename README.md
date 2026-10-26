@@ -15,7 +15,7 @@ The data is heavily imbalanced (~85% positive, ~2% neutral), so I used balanced 
 ## Method
 - Base model: `xlm-roberta-base`
 - 3 epochs, lr 2e-5, batch size 16, max length 128
-- Trained on a free Colab T4 GPU (~15 min)
+- Trained on a free Colab T4 GPU (~13 min)
 
 ## Results (balanced test set, 1,800 examples)
 
